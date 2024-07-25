@@ -117,6 +117,15 @@ If you encounter any issues:
 3. Verify that the paths in the configuration file are correct.
 4. For GPU-related issues, make sure you have the correct CUDA version installed for your PyTorch version.
 
+## Contributing
+
+Contributions to improve the project are welcome. Please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Commit your changes.
+4. Push to the branch.
+5. Create a new Pull Request.
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
